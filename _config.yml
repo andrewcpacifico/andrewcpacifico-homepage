@@ -1,0 +1,23 @@
+url: http://andrewcpacifico.github.io
+baseurl:
+
+# Site Settings
+title: Andrew Cavalcante Pacifico 
+description: "Desenvolvedor de Software na Neemu."
+keywords: "andrew, pacifico"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: [
+    "Rakefile", 
+    "LICENSE", 
+    "README.md",
+    "node_modules",
+    "grunt",
+    "Gruntfile.js",
+    "package.json",
+    "less"
+]

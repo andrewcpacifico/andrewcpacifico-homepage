@@ -1,0 +1,7 @@
+---
+layout: null
+title: Abril 2007
+subtitle:
+image: "img/timeline/ufam.jpg"
+---
+Início da graduação em Ciência da Computação na <a href="http://ufam.edu.br" target="_blank">UFAM</a>.
